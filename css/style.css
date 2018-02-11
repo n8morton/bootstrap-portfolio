@@ -9,6 +9,9 @@
     
 }
 
+body{
+    background: url("../images/background.jpg");
+}
 h1{
     font-family: serif;
     font-size: 1.7em;
